@@ -26,7 +26,7 @@ skills in Microsoft Fabric and end-to-end data pipelines.
 
 ### 📊 Featured Projects
 
-Check out my pinned repositories below 👇
+Font metadata across vendors/marketplaces uses inconsistent naming for the same font family and foundry, making catalog reconciliation manual and error-prone. This project automates matching with confidence scoring.
 
 ---
 
